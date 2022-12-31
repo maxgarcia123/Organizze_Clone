@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">OrganizzeClone</string>
+
+
+    <!-- register activity -->
+    <string name="title_intro_register">Crie sua conta grátis</string>
+    <string name="terms_of_use">Termos de uso</string>
+
+    <!-- login activity -->
+    <string name="title_login">Acesse sua conta</string>
+
+    <!-- forms strings-->
+    <string name="input_name_hint">Nome</string>
+    <string name="input_email_hint">Email</string>
+    <string name="input_password_hint">Senha</string>
+    <string name="btn_register">Cadastrar</string>
+    <string name="btn_sign_in">Entrar</string>
+    <string name="validation_name">Preencha o nome</string>
+    <string name="validation_email">Preencha o email</string>
+    <string name="validation_password">Preencha a senha</string>
+    <string name="hint_date">Data</string>
+    <string name="hint_salary">Ex: Salário</string>
+    <string name="hint_monthly_salary">Ex: Salário mensal</string>
+
+    <!-- Notifies -->
+    <string name="successful_register">Sucesso ao cadastrar usuário!</string>
+    <string name="error_register">Erro ao cadastrar usuário! </string>
+    <string name="weak_password">Senha muito fraca! sua senha deve conter mais 6 caracteres.</string>
+    <string name="invalid_credentials">Digite um email válido!</string>
+    <string name="user_collision">Email já cadastrado!</string>
+    <string name="invalid_user">Esse endereço de email não está cadastrado</string>
+    <string name="invalid_login">Esse endereço de email ou senha não correspondem a um usuário cadastrado</string>
+    <string name="error_sign_in">Erro ao tentar logar o usuario!</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <!-- Home Strings-->
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="menu_float_expense">Despesa</string>
+    <string name="menu_income">Receita</string>
+</resources>

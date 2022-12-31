@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#01C7D2</color>
+    <color name="colorPrimaryDark">#00B2BC</color>
+    <color name="colorAccent">#FF706A</color>
+    <color name="colorAccentDark">#C85D59</color>
+    <color name="fireOpalAccent">#ED918E</color>
+    <color name="fireOpalAccentDark">#E8706C</color>
+    <color name="fireOpal">#E66560</color>
+    <color name="fireOpalDark">#E03D38</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="caribbeanGreenAccent">#13FFC4</color>
+    <color name="caribbeanGreenAccentDark">#00E7AD</color>
+    <color name="caribbeanGreen">#00D39E</color>
+    <color name="caribbeanGreenDark">#008665</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
